@@ -20,12 +20,11 @@ gem 'bootstrap-sass', '~> 3.3.6'
 # authentification
 gem 'devise'
 
-# mailcatcher
-gem 'mailcatcher'
-
 # websocket
 gem "websocket-rails"
+gem 'faye-websocket', '0.10.0'
 
+gem 'haml'
 # Use jquery as the JavaScript library
 gem 'jquery-rails'
 # Turbolinks makes following links in your web application faster. Read more: https://github.com/rails/turbolinks
