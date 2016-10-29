@@ -1,0 +1,6 @@
+== README
+
+Test app with devise and websocket-ruby
+
+<tt>https://github.com/plataformatec/devise</tt>
+<tt>https://github.com/imanel/websocket-ruby</tt>
